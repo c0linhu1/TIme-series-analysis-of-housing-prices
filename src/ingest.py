@@ -10,7 +10,6 @@ C:\influxdb3\influxdb3.exe create database housing --host http://localhost:8181 
 """
 
 import os
-import sys
 from pathlib import Path
 
 import pandas as pd

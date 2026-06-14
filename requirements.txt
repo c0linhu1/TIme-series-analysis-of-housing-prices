@@ -1,0 +1,10 @@
+influxdb3-python
+fredapi
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+python-dotenv
+pyarrow
+
